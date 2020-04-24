@@ -1,6 +1,6 @@
 # My dart study repository
 
 ### Learned so far:
-- Types.
+- Types and basic structures.
 - Functions.
 - Classes.

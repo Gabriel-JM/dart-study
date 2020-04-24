@@ -23,4 +23,29 @@ void main() {
 
   print(map);
   print(map['b']);
+
+  if(b) {
+    print('Simple if with a boolean :)');
+  }
+
+  print('Normal for:');
+  for(int i = 0; i < l.length; i++) {
+    print(i);
+  }
+
+  print('\nFor in:');
+  for(int i in l) {
+    print(i);
+  }
+
+  print('\nWhile and Do while:');
+  int j = 10;
+  while(j > 1) {
+    print(j);
+    j--;
+  }
+  j = 10;
+  do {
+    print(j--);
+  } while(j > 1);
 }

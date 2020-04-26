@@ -3,4 +3,5 @@
 ### Learned so far:
 - Types and basic structures.
 - Functions.
-- Classes.
+- Classes (private fields, overrides, static, final, operators).
+- Inheritance.

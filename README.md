@@ -1,7 +1,16 @@
 # My dart study repository
 
 ### Learned so far:
-- Types and basic structures.
-- Functions.
-- Classes (private fields, overrides, static, final, operators).
-- Inheritance.
+1. Types and basic structures.
+2. Functions.
+3. Classes:
+    - private fields
+    - overrides
+    - static
+    - final
+    - operators
+    - abstraction
+    - mixin.
+4. Inheritance.
+5. Classes as Interfaces.
+6. Casting.

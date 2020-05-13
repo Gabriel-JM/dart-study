@@ -17,3 +17,9 @@
 7. Iterables.
 8. A little about web with Dart.
 9. A little about parts.
+10. Generics (Classes and Functions).
+11. Exceptions.
+12. Factory.
+
+### Extras:
+- Tetris web game.

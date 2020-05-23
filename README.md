@@ -20,7 +20,7 @@
 10. Generics (Classes and Functions).
 11. Exceptions.
 12. Factory.
-13. Asyncronous Programming (Future and Isolate).
+13. Asynchronous Programming (Future and Isolate).
 
 ### Extras:
 - Tetris web game.
